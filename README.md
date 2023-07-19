@@ -1,6 +1,6 @@
 # terraformでEC2とSecurityGroupを作成  
 
-##ディレクトリ構成  
+## ディレクトリ構成  
 terraform    
 ├── ec2  
 │   └──ec2.tf  
